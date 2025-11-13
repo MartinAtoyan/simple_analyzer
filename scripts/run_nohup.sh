@@ -3,7 +3,6 @@
 # run_nohup.sh - Run program in background with nohup
 
 PROGRAM="python3 path_to_main.py"
-#PROGRAM="python3 /home/martin/PycharmProjects/simple_analyzer/simple_analyze/main.py"
 LOG_FILE="nohup.out"
 PID_FILE="program.pid"
 
