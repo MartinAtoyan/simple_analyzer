@@ -1,1 +1,1 @@
-# simple_analyzer
+# simple_analyzer | Martin Atoyan
