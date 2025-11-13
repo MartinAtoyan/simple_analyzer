@@ -45,4 +45,4 @@ for arr in test_cases:
     print(f"  Even count: {nums.even_count()}")
     print(f"  Odd count: {nums.odd_count()}")
     print(f"  Increasing pairs: {nums.increasing_pairs()}")
-    print("-" * 40)
+    print("-" * 50)
