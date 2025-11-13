@@ -23,6 +23,11 @@ class Analyzer:
     def increasing_pairs(self):
         return sum(1 for i in range(1, len(self.array)) if self.array[i] > self.array[i - 1])
 
+    def average_number(self):
+        return sum(self.array) / len(self.array)
+
+    def difference(self):
+        return max(self.array) - min(self.array)
 
 
 test_cases = [
