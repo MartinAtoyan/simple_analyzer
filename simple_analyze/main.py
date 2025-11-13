@@ -7,6 +7,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+__version__ = "v1.0.0"
+print(f"Running version {__version__}")
+
 config_file = os.environ.get('CONFIG_FILE')
 
 with open(config_file, 'r') as config:
