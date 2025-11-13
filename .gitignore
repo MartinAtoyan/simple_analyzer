@@ -1,5 +1,7 @@
 data.txt
 nohup.out
+program.pid
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
